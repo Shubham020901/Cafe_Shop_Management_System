@@ -12,11 +12,11 @@ public class Cafe_Shop_Main {
 		// TODO Auto-generated method stub
 		System.out.println("*******MENUITEM********");
         MenuItem[] menuItems = {
-                new MenuItem("Coffee", 2.5),
-                new MenuItem("Tea", 1.5),
-                new MenuItem("Sandwich", 5.0),
-                new MenuItem("Salad", 7.0),
-                new MenuItem("Dessert", 3.0)
+                new MenuItem("Coffee", 50.5),
+                new MenuItem("Tea", 10.5),
+                new MenuItem("Craxx", 15.0),
+                new MenuItem("Pizza", 117.0),
+                new MenuItem("Icecream", 60.0)
         };
         
      // Print out the menu items
